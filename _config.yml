@@ -1,0 +1,14 @@
+layout_spectrum: 0.13773521035909653
+typography_spectrum: 0.3671658670064062
+color:
+  brandStrength: 0.8782947019208223
+  lightness: 0.5009370022453368
+  saturation: 0.023710932582616806
+  rhythmicContrast: 0.39292596373707056
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: CrisisForSuccess
